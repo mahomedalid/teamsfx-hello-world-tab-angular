@@ -1,0 +1,40 @@
+{
+    "solution": {
+        "teamsAppTenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "subscriptionId": "0358aeb3-226e-43a9-8937-92120a1befbf",
+        "subscriptionName": "mapach-voyager-hackoverflow",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "rg-accenture-test",
+        "location": "westus",
+        "resourceNameSuffix": "7f2a1d",
+        "provisionSucceeded": true
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "teamsAppId": "06e0b155-24f8-4205-8438-9d795b2e996e",
+        "teamsAppUpdatedAt": 1657658240645
+    },
+    "fx-resource-identity": {
+        "identityName": "helloworlddev7f2a1d",
+        "identityResourceId": "/subscriptions/0358aeb3-226e-43a9-8937-92120a1befbf/resourceGroups/rg-accenture-test/providers/Microsoft.ManagedIdentity/userAssignedIdentities/helloworlddev7f2a1d",
+        "identityClientId": "28f1cb26-c53b-4221-94d0-417ba0caddfb"
+    },
+    "fx-resource-aad-app-for-teams": {
+        "clientId": "75c4d1a0-94f1-4ea2-897e-1e9a934c6558",
+        "clientSecret": "{{fx-resource-aad-app-for-teams.clientSecret}}",
+        "objectId": "d62502a2-a3d6-4513-8f95-5a9d35a9a505",
+        "oauth2PermissionScopeId": "273e79d0-131b-4881-b663-e2d0170f8aa0",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "oauthHost": "https://login.microsoftonline.com",
+        "oauthAuthority": "https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "applicationIdUris": "api://helloworlddev7f2a1dtab.z22.web.core.windows.net/75c4d1a0-94f1-4ea2-897e-1e9a934c6558",
+        "frontendEndpoint": "https://helloworlddev7f2a1dtab.z22.web.core.windows.net"
+    },
+    "fx-resource-frontend-hosting": {
+        "domain": "helloworlddev7f2a1dtab.z22.web.core.windows.net",
+        "endpoint": "https://helloworlddev7f2a1dtab.z22.web.core.windows.net",
+        "indexPath": "/index.html#",
+        "storageResourceId": "/subscriptions/0358aeb3-226e-43a9-8937-92120a1befbf/resourceGroups/rg-accenture-test/providers/Microsoft.Storage/storageAccounts/helloworlddev7f2a1dtab"
+    }
+}
