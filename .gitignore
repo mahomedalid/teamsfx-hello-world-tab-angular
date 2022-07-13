@@ -7,5 +7,6 @@ node_modules
 .env.teamsfx.local
 subscriptionInfo.json
 build
+tabs/.angular
 .fx/configs/config.local.json
 .fx/states/state.local.json
