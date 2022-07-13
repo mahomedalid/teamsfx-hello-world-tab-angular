@@ -4,6 +4,8 @@ Microsoft Teams supports the ability to run web-based UI inside "custom tabs" th
 
 Hello World Tab Angular shows you how to build a tab app in Angular.
 
+![Hello World Tab Angular](images/teamsfx-hello-world-tab-angular.gif)
+
 ## Prerequisites
 
 - [NodeJS](https://nodejs.org/en/), fully tested on NodeJS 14, 16
